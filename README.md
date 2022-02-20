@@ -1,17 +1,25 @@
-# cubit_flutter
+# travel_cubit
 
-A new Flutter project.
+A Flutter travel app using Cubit to fetch data from Cloud Firestore.
 
-## Getting Started
+## Table of contents
 
-This project is a starting point for a Flutter application.
+1. [Packages](#packages-)
+2. [Database](#database-)
+3. [Screenshot](#screenshots-)
 
-A few resources to get you started if this is your first Flutter project:
+### Packages
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Cloud Firestore](https://pub.dev/packages/cloud_firestore)
+- [Firebase Core](https://pub.dev/packages/firebase_core)
+- [Flutter_advanced_drawer](https://pub.dev/packages/flutter_advanced_drawer)
+- [Flutter Bloc](https://pub.dev/packages/flutter_bloc)
+- [Equatable](https://pub.dev/packages/equatable)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# travel_cubit" 
+### Database &#128421;
+
+- [Cloud Firestore](https://firebase.google.com/)
+
+### Screenshot &#128248;
+
+<img src="https://user-images.githubusercontent.com/44105063/154851320-9c850050-eae2-43e8-9600-2639bdfb9e99.gif" width="350" height="700">
