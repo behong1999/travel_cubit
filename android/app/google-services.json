@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "531785375162",
+    "firebase_url": "https://viettravel-3202c-default-rtdb.firebaseio.com",
+    "project_id": "viettravel-3202c",
+    "storage_bucket": "viettravel-3202c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531785375162:android:0cd1194883b22517571183",
+        "android_client_info": {
+          "package_name": "com.practice.travel_cubit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531785375162-ovdtg1a854ni6ahfjvf1km3aplkqsa1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDohAwk4s-JbC7FoBj6HnQxhfqJJfwkr0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531785375162-ovdtg1a854ni6ahfjvf1km3aplkqsa1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
